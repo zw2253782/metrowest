@@ -7,7 +7,12 @@ License: https://webthemez.com/license
 html {
   font-size: 1rem;
 }
-
+html,body {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
 body {
   font-weight: 400;
   font-size: 1rem;
@@ -71,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 	background:#232323 !important
 }
 header{
-  padding: 70px 0 100px;
+  padding: 70px 0 0 0;
 }
 /*------------------------------------
   Highlight Color
@@ -1239,8 +1244,8 @@ img.wt-block-image {
   Spaces
 ------------------------------------*/
 .wt-section {
-  padding-top: 8.25rem;
-  padding-bottom: 8.25rem;
+  padding-top: 9vw;
+  padding-bottom: 9vw;
 }
 
 .wt-section-top {
