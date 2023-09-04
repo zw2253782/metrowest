@@ -21,6 +21,7 @@ Read about [About Us](about.html) and our mission.
 Get in touch with us on the [Contact Page](contact.html). We'd love to hear from you!
 
 ## Get Started
+[create an issue]([https://github.com/yourusername/your-repo/issues](https://app.veo.co/matches/20230903-game-2-90246e05/)
 
 1. Clone this repository to your local machine.
 2. Navigate to the repository folder.
